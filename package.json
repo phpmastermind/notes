@@ -5,6 +5,7 @@
   "license": "Apache Version 2.0",
   "author": "Google Inc.",
   "scripts": {
+    "start": "node app.js",
     "test": "cd ..; npm run st -- speech/system-test/*.test.js"
   },
   "dependencies": {
